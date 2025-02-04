@@ -30,3 +30,6 @@ Real-time Image Classification: The trained model can be deployed in application
 Transfer Learning: The architecture can be adapted for transfer learning, where a pre-trained model is fine-tuned for a specific task with limited data.
 
 #OUTPUT-
+# Visualize some training data
+
+![Image](https://github.com/user-attachments/assets/c062e1c4-fe9b-4cb1-96ae-abfa56267200)
